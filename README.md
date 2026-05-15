@@ -12,8 +12,7 @@ Interactive Power BI dashboard for analyzing:
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview]([https://github.com/AmiraaAhmed27/Mobile-Laptop/blob/main/Screenshot%20.png](https://github.com/AmiraaAhmed27/Super-Store-Analysis/blob/main/Screenshot%202026-05-15%20182625.png)
-
+![Dashboard Preview]([https://github.com/AmiraaAhmed27/Mobile-Laptop/blob/main/Screenshot%20.png](https://github.com/AmiraaAhmed27/Super-Store-Analysis/blob/main/pic.png))
 
 ---
 
